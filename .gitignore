@@ -1,0 +1,6 @@
+lib
+lib64
+Practice
+bin
+pyvenv.cfg
+pyrightconfig.json
